@@ -1,6 +1,6 @@
-# [New Age](https://africaonlinesolutions.github.io/app-download/)
+# [App Download](https://africaonlinesolutions.github.io/app-download/)
 
-[New Age](https://africaonlinesolutions.github.io/app-download/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/).
+[App Adownload](https://africaonlinesolutions.github.io/app-download/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/).
 
 ## Preview
 
